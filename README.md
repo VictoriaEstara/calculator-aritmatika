@@ -3,6 +3,7 @@
 Kode ini berfungsi untuk membuat kalkulator.
 
 Fitur-fitur:
+
 1️⃣ Mampu melakukan operasi aritmatika, meliputi penjumlahan, pengurangan, perkalian, pembagian, dan modulus.
 
 2️⃣ Dapat melakukan operasi aritmatika secara berulang kali, setelah menampilkan hasil suatu perhitungan.
